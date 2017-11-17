@@ -1,0 +1,9 @@
+Bonjour je suis la
+g_2
+Aufg_2.c
+Aufg_3
+Aufg_3.c
+Aufg_4.c
+Aufg_5.c
+c4includes.h
+Datei.txt
